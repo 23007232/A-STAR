@@ -6,7 +6,7 @@
 
 <H3>Algorithm:</H3>
 
-```
+
 A* Search Algorithm
 
 1.  Initialize the open list
@@ -49,7 +49,7 @@ A* Search Algorithm
   
     e) push q on the closed list
     end (while loop)
-```
+
 <hr>
 
 <h2> Program : </h2>
